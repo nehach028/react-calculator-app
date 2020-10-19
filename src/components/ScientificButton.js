@@ -3,11 +3,11 @@ import { scientificKeys } from '../utils'
 
 const ScientificButton = () => {
   const renderScientificBtn = scientificKeys.map((k) => {
-    return <button key={k} className="button-scientific" value={k} >{k}</button> 
+    return <button key={k} className="button-scientific" value={k} >{k}</button>
   })
   return (
     <div className="scientific-div">
-        {renderScientificBtn}
+      {renderScientificBtn}
     </div>
   );
 };
