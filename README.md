@@ -18,8 +18,20 @@ To get it installed and launched:
 ## App Functionality & Its Flows
 
 App support basic calculator function like '+', '-','/','÷','*','+/-'
-also ther is history feature to. track of all the calculation and result .
+
+![Webview](https://github.com/nehach028/react-calculator-app/blob/master/public/calculator-app-web.png?raw=true)
+
+also ther is history feature to track previous operation and result .
 User can see Scientific calculator mode in landscape mode.
+
+### Respnsive View -1 
+
+![Mobileview](https://github.com/nehach028/react-calculator-app/blob/master/public/calculator-app-mobile.png?raw=true)
+
+### Respnsive View -2
+
+![Responsiveview](https://github.com/nehach028/react-calculator-app/blob/master/public/calculator-app-responsive.png?raw=true)
+
 ## FrontEnd UI
 
 This project was build with css flex .
